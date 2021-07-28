@@ -1,0 +1,14 @@
+objects have state(fields) and behavior(methods)
+
+oven:
+    state: current temp, goal temp, isOn, isConnectedToPower
+    behavior: heatUp, turnO
+
+hiding data behind methods is called data encapsulation
+
+benefits of oop:
+    modularity
+    information-hiding
+    code re-use
+    pluggability and debugging ease
+
